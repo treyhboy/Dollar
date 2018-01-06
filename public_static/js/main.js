@@ -365,7 +365,7 @@ const overv = function () {
 
     let box  = $('#box');
     //Name is injected in span
-    let nam = $('#nam');
+    let nam = $('#nam1');
     let nam2 = $('#nam2');
     nam.innerHTML= ret;
     nam2.innerHTML = ret;
