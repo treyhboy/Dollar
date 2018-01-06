@@ -1,3 +1,6 @@
+
+
+//Line 384 to edit user data
 let ret = "";
 $( function () {
     let spen = $('#spend');
@@ -361,6 +364,11 @@ const crtran =  function () {
 const overv = function () {
 
     let box  = $('#box');
+    //Name is injected in span
+    let nam = $('#nam');
+    let nam2 = $('#nam2');
+    nam.innerHTML= ret;
+    nam2.innerHTML = ret;
     box.empty();
     box.append(`<div class="col" id="tab" style="width: 100%;margin-top: 20px"></div>`);
     let tab = $('#tab');
@@ -374,6 +382,10 @@ const overv = function () {
         let Gam = 0;
         let Iam = 0;
         let Mam = 0;
+        //Edit here for Calculating cash and credit
+        let cash =0;
+        let credit=0;
+        //Edit in loop to calculate and add
         for (i in data)
         {
             if(data[i].detail == 'Food')
