@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c75010fa-4366-4a4b-8e3a-651c87b0d66a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_static/main.html" afterPath="$PROJECT_DIR$/public_static/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_static/css/main1.css" afterPath="$PROJECT_DIR$/public_static/css/main1.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -181,7 +181,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public_static/main.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="145">
@@ -207,6 +207,16 @@
                 <element signature="e#2592#2598#0" expanded="true" />
                 <element signature="e#2598#2604#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main1.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public_static/css/main1.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -294,6 +304,7 @@
         <option value="$PROJECT_DIR$/public_static/index.html" />
         <option value="$PROJECT_DIR$/public_static/js/main.js" />
         <option value="$PROJECT_DIR$/public_static/main.html" />
+        <option value="$PROJECT_DIR$/public_static/css/main1.css" />
       </list>
     </option>
   </component>
@@ -436,12 +447,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514943281015</updated>
-      <workItem from="1514943282235" duration="23981000" />
+      <workItem from="1514943282235" duration="24117000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23981000" />
+    <option name="totallyTimeSpent" value="24117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -752,6 +763,14 @@
             <element signature="e#2592#2598#0" expanded="true" />
             <element signature="e#2598#2604#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_static/css/main1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
