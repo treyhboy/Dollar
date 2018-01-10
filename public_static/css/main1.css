@@ -30,7 +30,10 @@
     letter-spacing: 1px;
     border-bottom: 2px solid #14CC60;
 
+}
 
+.he:focus {
+    border-bottom: 2px solid #14CC60;
 }
 .main {
     display: flex;
