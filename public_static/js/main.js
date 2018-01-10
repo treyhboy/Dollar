@@ -365,9 +365,9 @@ const overv = function () {
 
     let box  = $('#box');
     //Name is injected in span
-    let nam = $('#nam1');
-    let nam2 = $('#nam2');
-    if(nam.innerText == "") {
+    let nam = document.getElementById('nam1');
+    let nam2 = document.getElementById('nam2');
+    if(nam.innerText === "") {
         nam.append(sessionStorage.getItem('name'));
         nam2.append(sessionStorage.getItem('name'));
     }
